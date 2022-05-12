@@ -1,0 +1,51 @@
+\begin{thebibliography}{1}
+
+\bibitem{metropolitan1959new}
+M.~L.~I. Company.
+\newblock New weight standards for men and women.
+\newblock {\em Statistical Bulletin}, 40:1--4, 1959.
+
+\bibitem{freedmanValidityBMIIndicator2009}
+D.~S. Freedman and B.~Sherry.
+\newblock The {Validity} of {BMI} as an {Indicator} of {Body} {Fatness} and
+  {Risk} {Among} {Children}.
+\newblock {\em Pediatrics}, 124(Supplement\_1):S23--S34, Sept. 2009.
+\newblock Publisher: American Academy of Pediatrics.
+
+\bibitem{goncalvesArtificialIntelligenceEarly2022}
+S.~Goncalves, P.-C. Fong, and M.~Blokhina.
+\newblock Artificial intelligence for early diagnosis of lung cancer through
+  incidental nodule detection in low- and middle-income countries-acceleration
+  during the {COVID}-19 pandemic but here to stay.
+\newblock {\em American Journal of Cancer Research}, 12(1):1--16, Jan. 2022.
+
+\bibitem{hulsenBigDataPrecision2019}
+T.~Hulsen, S.~S. Jamuar, A.~R. Moody, J.~H. Karnes, O.~Varga, S.~Hedensted,
+  R.~Spreafico, D.~A. Hafler, and E.~F. McKinney.
+\newblock From {Big} {Data} to {Precision} {Medicine}.
+\newblock {\em Frontiers in Medicine}, 6, 2019.
+
+\bibitem{langarizadehApplyingNaiveBayesian2016}
+M.~Langarizadeh and F.~Moghbeli.
+\newblock Applying {Naive} {Bayesian} {Networks} to {Disease} {Prediction}: a
+  {Systematic} {Review}.
+\newblock {\em Acta Informatica Medica}, 24(5):364--369, Oct. 2016.
+
+\bibitem{nortonGeneratingBetterDecision1989}
+S.~W. Norton.
+\newblock Generating better decision trees.
+\newblock In {\em Proceedings of the 11th international joint conference on
+  {Artificial} intelligence - {Volume} 1}, {IJCAI}'89, pages 800--805, San
+  Francisco, CA, USA, Aug. 1989. Morgan Kaufmann Publishers Inc.
+
+\bibitem{nuttallBodyMassIndex2015}
+F.~Q. Nuttall.
+\newblock Body {Mass} {Index}.
+\newblock {\em Nutrition Today}, 50(3):117--128, May 2015.
+
+\bibitem{quinlanInductionDecisionTrees1986}
+J.~R. Quinlan.
+\newblock Induction of decision trees.
+\newblock {\em Machine Learning}, 1(1):81--106, Mar. 1986.
+
+\end{thebibliography}
